@@ -31,14 +31,14 @@
 ## 截图
 
 ### 登录页面
-![登录页面](images\iamge01.JPG)
+![登录页面](images/iamge01.JPG)
 
 ### 项目列表
-![项目列表](images\iamge02.JPG)
+![项目列表](images/iamge02.JPG)
 
 
 ### 项目看板
-![项目看板](images\iamge03.JPG)
+![项目看板](images/iamge03.JPG)
 
 
 ## 项目结构
